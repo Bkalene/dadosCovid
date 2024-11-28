@@ -2,7 +2,7 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st 
 
-streamlit run codigobase.py
+#streamlit run codigobase.py
 
 #LENDO O DATASET
 df = pd.read_csv('https://raw.githubusercontent.com/wcota/covid19br/master/cases-brazil-states.csv')
